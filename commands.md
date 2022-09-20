@@ -65,3 +65,7 @@ In your package.json, add the following scripts:
 
 Run npm start in the backend folder
 http://localhost:5000/hello/world
+
+Create api folder in routes folder
+
+
